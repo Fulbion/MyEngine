@@ -149,6 +149,7 @@
     <ClInclude Include="include\Engine\Application.hpp" />
     <ClInclude Include="include\Engine\Core.hpp" />
     <ClInclude Include="include\Engine\EntryPoint.hpp" />
+    <ClInclude Include="include\Engine\Event.hpp" />
     <ClInclude Include="include\Engine\Log.hpp" />
     <ClInclude Include="include\MyEngine.hpp" />
   </ItemGroup>

@@ -27,6 +27,7 @@
     <ClInclude Include="include\MyEngine.hpp">
       <Filter>include</Filter>
     </ClInclude>
+    <ClInclude Include="include\Engine\Event.hpp" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\Application.cpp">

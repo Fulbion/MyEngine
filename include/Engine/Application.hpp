@@ -1,6 +1,8 @@
 #pragma once
 
 #include "Engine/Core.hpp"
+#include "Engine/Log.hpp"
+#include "Engine/Event.hpp"
 
 namespace my
 {
